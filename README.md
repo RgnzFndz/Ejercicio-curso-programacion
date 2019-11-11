@@ -1,2 +1,1 @@
-# Ejercicio-curso-programacion
-Engiene Gallery
+Este es un proyecto simple para el curso de programacion, consiste en una galeria de imagenes de motores con sus nombres y especificaciones, haciendo un click en cada motor se pueden ver las especificaciones del mismo.
